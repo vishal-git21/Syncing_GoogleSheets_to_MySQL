@@ -162,6 +162,7 @@ The following is the directory structure for the project:
 - The script is set up to run regularly using a task scheduler to ensure continuous synchronization between MySQL and Google Sheets.
 
 
+[Watch the video demo here](https://drive.google.com/file/d/1QdFWIjoMXCyoCwU2CbIBiqwEG5g73Iph/view?usp=sharing)
 
 
-*Add your video here, and your approach to the problem (optional). Leave some comments for us here if you want, we will be reading this :)*
+
