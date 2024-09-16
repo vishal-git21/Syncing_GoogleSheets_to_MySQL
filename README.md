@@ -58,11 +58,13 @@ We're available at techhiring@superjoin.ai for all queries.
 
 All the best ✨.
 
-## Developer's Section
+
+
+# Developer's Section
 
 ## Approach
 
-# Project Directory Structure
+## Project Directory Structure
 
 The following is the directory structure for the project:
 
