@@ -62,8 +62,6 @@ All the best ✨.
 
 # Developer's Section
 
-## Approach
-
 ## Project Directory Structure
 
 The following is the directory structure for the project:
@@ -108,6 +106,8 @@ The following is the directory structure for the project:
 
 - **sync.log**: Log file for recording synchronization events and errors.
 
+
+## Approach
 
 ### Synchronization Logic
 
