@@ -164,5 +164,9 @@ The following is the directory structure for the project:
 
 [Watch the video demo here](https://drive.google.com/file/d/1QdFWIjoMXCyoCwU2CbIBiqwEG5g73Iph/view?usp=sharing)
 
+### Roadblocks
+
+There weren't any major roadblocks, but the project offered a unique and engaging experience. Setting up service accounts, assigning permissions, and working with the Google Sheets API was something i had never done before and it added interesting challenges. I now see how impactful this solution can be for modern businesses.
+
 
 
